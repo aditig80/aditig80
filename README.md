@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Aditi 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F55F7C&center=true&width=450&lines=CSE+Undergrad+%7C+Full-Stack+Dev;AI+Explorer+%7C+Problem+Solver;Codeforces+Specialist+%7C+Always+Curious!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F55F7C&center=true&width=450&lines=CSE+Undergrad+%7C+Full-Stack+Dev;AI+Explorer+%7C+Problem+Solver;Explorer+%7C+Always+Curious!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />

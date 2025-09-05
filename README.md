@@ -9,8 +9,8 @@
   <a href="mailto:adiii.mails05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aditigupta99/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/aditig80"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/aditii_g99"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/adiig_9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/aditii_99"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/adii_9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
  <a href="https://www.hackerrank.com/profile/aditii_g99"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
 
   <img src="https://komarev.com/ghpvc/?username=aditig80&style=flat&color=blue" alt="profile views" />
